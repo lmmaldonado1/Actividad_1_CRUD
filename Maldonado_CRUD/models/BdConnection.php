@@ -2,7 +2,7 @@
 class BdConnection {
     private $servername = "localhost";
     private $username = "root";
-    private $password = "Michael64";
+    private $password = "";
     private $dbname = "crud_db";
     private $conn;
 
